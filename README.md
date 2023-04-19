@@ -1,7 +1,9 @@
 # 项目简介
-Circos教程中文版 翻译自 circos官方的教程 http://circos.ca/documentation/tutorials， 已经过 Circos 作者 Martin 的许可，目前翻译正在进行中。 使用Gitbook发布，地址为 https://www.gitbook.com/read/book/node/circos 。
+Circos教程中文版 翻译自 circos官方的教程 http://circos.ca/documentation/tutorials， 已经过 Circos 作者 Martin 的许可，目前翻译正在进行中。 
 
+使用Gitbook发布，地址为 https://www.gitbook.com/read/book/node/circos 。
 
+加入Circos中文社区: **QQ群** 171307056 
 
 # 章节划分
 
